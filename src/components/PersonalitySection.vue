@@ -4,12 +4,26 @@
       <h2>/** personality */</h2>
       <div id="plug"></div>
       <div id="personality-text">
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged.
+        Outside of work, I enjoy drawing sketches and going to art events and
+        museums. From time to time going to the gym to hold myself in shape and
+        in a good mood. In the wintertime, I love going to the hill and riding
+        through fluffy white snow on my snowboard.I am inquisitive and in my
+        travels, I always try to feel the local flavor, how people live and what
+        they do, habits, and peculiarities.
+        <br />
+        <br />
+        But sometimes I need to go into the wilderness to enjoy nature and stay
+        away from the bustle and noise of the city, walking with dogs through
+        the forests and enjoying the view of the sea stretching into the horizon
+        from the edge of a cliff. That is why I fell in love with the northern
+        countries and the Baltic countries so much. A combination of comfort for
+        life and socialization in the conditions of digitalized states and the
+        desire for nature, personal space, and solitude. In general -
+        <strong>Lagom!</strong>
+        <br />
+        <br />
+        I believe that maintaining a good work-life balance is key to achieving
+        success in all areas of life.
       </div>
       <img id="pers-photo" src="../assets/pers-photo1.jpg" alt="person-photo" />
     </article>
@@ -75,14 +89,11 @@ article {
   margin-right: 16px;
   text-align: justify;
 }
-/* #next {
-  position: absolute;
-  bottom: 24px;
-} */
 
 @media only screen and (max-width: 768px) {
   #personality {
     flex-direction: column;
+    height: fit-content;
   }
   article {
     display: flex;
@@ -103,6 +114,10 @@ article {
     margin-right: 0;
     order: 4;
   }
+  #next {
+    position: initial;
+    margin: 88px 0 32px;
+  }
 }
 
 @media only screen and (max-width: 540px) {
@@ -116,9 +131,6 @@ article {
   }
   h2 {
     margin-bottom: 0;
-  }
-  #next {
-    margin-top: 32px;
   }
 }
 </style>

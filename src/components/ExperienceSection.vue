@@ -15,9 +15,12 @@
         setting up a CI/CD environment for this. I'm passionate about
         great-designed mockups and love bringing new life with pretty UI
         beautiful smooth scrolling pages and animation to old-fashion websites.
-        Having worked in the world of startups, I learned how to quickly develop
-        MVP serverless projects in order to deliver the product to users as soon
-        as possible to check the market demand.
+        I believe that great design and functionality should always go hand in
+        hand, and I strive to create websites that not only look great but also
+        provide an exceptional user experience. Having worked in the world of
+        startups, I learned how to quickly develop MVP serverless projects in
+        order to deliver the product to users as soon as possible to check the
+        market demand.
 
         <div>
           <h4>My stack:</h4>
@@ -108,11 +111,18 @@ ul {
     flex-direction: column;
     align-items: center;
   }
+  #experience {
+    height: fit-content;
+  }
   #exp-photo {
     width: 180px;
   }
   #experience-text {
     margin-left: 0;
+  }
+  #next {
+    position: initial;
+    margin: 88px 0 32px;
   }
 }
 
@@ -123,15 +133,8 @@ ul {
 }
 
 @media only screen and (max-width: 390px) {
-  #experience {
-    height: fit-content;
-  }
   h2 {
     margin-bottom: 0;
-  }
-  #next {
-    position: initial;
-    margin: 88px 0 32px;
   }
 }
 </style>

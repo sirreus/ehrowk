@@ -1,7 +1,10 @@
 .DS_Store
 node_modules
+<<<<<<< HEAD
 # /dist
 deploy.sh
+=======
+>>>>>>> main
 
 
 # local env files

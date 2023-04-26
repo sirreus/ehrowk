@@ -3,15 +3,16 @@
     <article>
       <img id="ava" alt="ava" src="../assets/ava.jpg" />
       <LinksSection />
-      <h1>Hello there!</h1>
-      <h2>/** My name is Kirill I'm Frontend developer */</h2>
+      <h1>/** Hello there! */</h1>
       <div id="about-text">
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged.
+        Kirill here!
+        <br />
+        Greetings and welcome to my page!
+        <br />
+        <br />
+        Here, I'm excited to share my experience in IT, along with my technology
+        stack and personal details, as well as some of my hobbies. Feel free to
+        take a look around and get to know me better.
       </div>
     </article>
     <ScrollButton id="next" @click="scrollTo" />

@@ -9,8 +9,8 @@
         alt="contact-photo"
       />
       <div id="contacts-text">
-        If you have any questions or would like to work together, don't hesitate
-        to contact me via:
+        If you have any questions or would like to discuss a potential project,
+        please don't hesitate to reach out to me via:
         <br />
         <ul>
           <li class="contacts-item">
@@ -40,10 +40,8 @@
         <div id="bye-bye">
           Looking forward to meeting with you!
           <br />
-          Thank you for visiting!
           <br />
-          <br />
-          🎉
+          Thanks for stopping by! 🎉
         </div>
       </div>
     </article>
