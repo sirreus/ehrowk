@@ -6,8 +6,8 @@
       <div id="personality-text">
         Outside of work, I enjoy drawing sketches and going to art events and
         museums. From time to time going to the gym to hold myself in shape and
-        in a good mood. In the wintertime, I love going to the hill and riding
-        through fluffy white snow on my snowboard.I am inquisitive and in my
+        in a good mood. I love going to the hill in the wintertime and riding
+        through fluffy white snow on my snowboard. I am inquisitive and in my
         travels, I always try to feel the local flavor, how people live and what
         they do, habits, and peculiarities.
         <br />

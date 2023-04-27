@@ -11,16 +11,16 @@
         <br />
         Given the different roles in my career, I learned how to pay attention
         to details when checking delivered product features, applying various
-        types of automation testing, choose the best suitable framework, and
-        setting up a CI/CD environment for this. I'm passionate about
+        types of automation testing, make a choose the best suitable framework,
+        and setting up a CI/CD environment for this. I'm passionate about
         great-designed mockups and love bringing new life with pretty UI
         beautiful smooth scrolling pages and animation to old-fashion websites.
         I believe that great design and functionality should always go hand in
-        hand, and I strive to create websites that not only look great but also
-        provide an exceptional user experience. Having worked in the world of
-        startups, I learned how to quickly develop MVP serverless projects in
-        order to deliver the product to users as soon as possible to check the
-        market demand.
+        hand, and I strive to create websites that look great and provide an
+        exceptional user experience. Having worked in the world of startups, I
+        learned how to quickly develop MVP serverless projects in order to
+        deliver the product to users as soon as possible to check the market
+        demand.
 
         <div>
           <h4>My stack:</h4>
