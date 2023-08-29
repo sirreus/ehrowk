@@ -12,6 +12,16 @@
     <a href="mailto:inu.grey@gmail.com" target="_blank">
       <img alt="gm" src="../assets/gm.png" />
     </a>
+    <a
+      href="https://www.upwork.com/freelancers/~0141e2d6d3b4a6d5f0"
+      target="_blank"
+    >
+      <img
+        alt="upw"
+        src="../assets/upw.png"
+        style="height: 28px; width: 28px"
+      />
+    </a>
   </section>
 </template>
 
@@ -29,6 +39,10 @@ export default {
   justify-content: center;
 
   margin: 16px 0;
+}
+a {
+  display: flex;
+  align-items: center;
 }
 img {
   width: 32px;
