@@ -26,9 +26,10 @@
           <h4>My stack:</h4>
           <ul>
             <li>HTML5</li>
-            <li>CSS3 / SCSS e.t.c / Styled-components / MUI / Storybook</li>
-            <li>JS / JQuery / React / NextJS / VueJS</li>
-            <li>Context / Redux (+ Saga)</li>
+            <li>CSS3 / SCSS / MUI / Styled-components / Storybook</li>
+            <li>JavaScript / TypeScript</li>
+            <li>JQuery / ReactJS / NextJS / VueJS</li>
+            <li>Context API / Redux (with Saga)</li>
             <li>Jest / Testing library / Puppeteer (Playwright) / Cypress</li>
             <li>Firebase / GCP</li>
           </ul>
