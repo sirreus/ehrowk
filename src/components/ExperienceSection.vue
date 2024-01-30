@@ -5,7 +5,7 @@
       <h2>/** experience */</h2>
       <img id="exp-photo" src="../assets/exp-photo.jpg" alt="exp-photo" />
       <div id="experience-text">
-        I have above 9 years of experience in IT since 2014. I started as work
+        I have above 10 years of experience in IT since 2014. I started as work
         in IT as QA Engineer and after 6 years I became a Frontend Developer.
         <br />
         <br />
@@ -28,7 +28,7 @@
             <li>HTML5</li>
             <li>CSS3 / SCSS / MUI / Styled-components / Storybook</li>
             <li>JavaScript / TypeScript</li>
-            <li>JQuery / ReactJS / NextJS / VueJS</li>
+            <li>ReactJS / NextJS / VueJS</li>
             <li>Context API / Redux (with Saga)</li>
             <li>Jest / Testing library / Puppeteer (Playwright) / Cypress</li>
             <li>Firebase / GCP</li>

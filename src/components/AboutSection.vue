@@ -67,7 +67,7 @@ h2 {
   justify-content: space-between;
   align-items: center;
   width: fit-content;
-  height: 92vh;
+  height: 84vh;
 }
 #about-text {
   width: 480px;
@@ -86,7 +86,7 @@ h2 {
   }
 }
 
-@media only screen and (max-width: 390px) {
+@media only screen and (max-width: 430px) {
   #about {
     height: 92vh;
   }
