@@ -1,15 +1,15 @@
 import { createWebHistory, createRouter } from "vue-router";
 
 import MainPage from "../pages/MainPage.vue";
-import ExperienceSection from "../components/ExperienceSection.vue";
-import PersonalitySection from "../components/PersonalitySection.vue";
-import ContactsSection from "../components/ContactsSection.vue";
+import ExperiencePage from "../pages/ExperiencePage.vue";
+import PersonalityPage from "../pages/PersonalityPage.vue";
+import ContactsPage from "../pages/ContactsPage.vue";
 
 const routes = [
   { path: "/", component: MainPage },
-  { path: "/experience", component: ExperienceSection },
-  { path: "/personality", component: PersonalitySection },
-  { path: "/contacts", component: ContactsSection },
+  { path: "/experience", component: ExperiencePage },
+  { path: "/personality", component: PersonalityPage },
+  { path: "/contacts", component: ContactsPage },
 ];
 
 const router = createRouter({
