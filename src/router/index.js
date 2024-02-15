@@ -6,10 +6,26 @@ import PersonalityPage from "../pages/PersonalityPage.vue";
 import ContactsPage from "../pages/ContactsPage.vue";
 
 const routes = [
-  { path: "/", component: MainPage },
-  { path: "/experience", component: ExperiencePage },
-  { path: "/personality", component: PersonalityPage },
-  { path: "/contacts", component: ContactsPage },
+  {
+    path: "/ehrowk",
+    name: "Main",
+    component: MainPage,
+  },
+  {
+    path: "/ehrowk/experience",
+    name: "Experience",
+    component: ExperiencePage,
+  },
+  {
+    path: "/ehrowk/personality",
+    name: "Personality",
+    component: PersonalityPage,
+  },
+  {
+    path: "/ehrowk/contacts",
+    name: "Contacts",
+    component: ContactsPage,
+  },
 ];
 
 const router = createRouter({

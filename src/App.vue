@@ -1,9 +1,15 @@
 <template>
   <div id="nav">
-    <router-link id="nav-link" to="/">Hello there!</router-link>
-    <router-link id="nav-link" to="/experience">My Experience</router-link>
-    <router-link id="nav-link" to="/personality">My Personality</router-link>
-    <router-link id="nav-link" to="/contacts">Contact me</router-link>
+    <router-link id="nav-link" :to="{ name: 'Main' }">Hello there!</router-link>
+    <router-link id="nav-link" :to="{ name: 'Experience' }"
+      >My Experience</router-link
+    >
+    <router-link id="nav-link" :to="{ name: 'Personality' }"
+      >My Personality</router-link
+    >
+    <router-link id="nav-link" :to="{ name: 'Contacts' }"
+      >Contact me</router-link
+    >
   </div>
   <router-view />
 </template>

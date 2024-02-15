@@ -1,11 +1,13 @@
 {
-  "name": "personal-page",
+  "name": "ehrowk",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sirreus.github.io/ehrowk/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
+    "deploy": "gh-pages -d dist",
     "deploy:m": "sh deploy.sh",
     "deploy:a": "node gh-pages-deploy.js"
   },
